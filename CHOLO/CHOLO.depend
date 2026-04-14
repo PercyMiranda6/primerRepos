@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1775541022 source:d:\repos computacion grafica\cholo\main.cpp
+	<GL/glut.h>
+
